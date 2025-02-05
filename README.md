@@ -1,2 +1,2 @@
-# Predicting-Credit-Worthy-Applicants-With-Python-
+# Predicting-Credit-Worthy-Applicants-With-Python
 Machine learning, Big Data Analysis
